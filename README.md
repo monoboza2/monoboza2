@@ -1,5 +1,4 @@
-## HELO
-# SAWATDEE
+
 - 👋 Hi, I’m @monoboza2
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
